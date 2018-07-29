@@ -1,5 +1,7 @@
 # tarzim-nerede
 
+DEPLOYED URL : https://tarzim-nerede.herokuapp.com/
+
 ## Project setup
 ```
 npm install
